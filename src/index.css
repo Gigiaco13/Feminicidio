@@ -1,0 +1,21 @@
+.alert{
+  margin-bottom:0;
+}
+
+.card-group{
+  padding: 20px;
+}
+
+.card img{
+  aspect-ratio: 1;
+}
+
+.card img{
+    width: 100%;
+  }
+
+  .titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
